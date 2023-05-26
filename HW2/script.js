@@ -28,7 +28,7 @@ console.log('---');
 }*/
 
 let test = true;
-console.log((test === true)? '+++' : '---');
+console.log((test)? '+++' : '---');
 
 
 /*Задание 3
